@@ -1,0 +1,5 @@
+# Folder/Directory Ignorance
+/.vscode
+
+# File Ignorance
+/laboratoryExam.exe
